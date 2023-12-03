@@ -145,10 +145,10 @@ outlines:
       asym: source
       size: 14
   keycaps:
-    - what: rectangle 
+    - what: rectangle
       where: true
       asym: source
-      size: [kx, ky] 
+      size: [kx, ky]
       corner: 1
   keywell:
     - "raw"
@@ -405,4 +405,3 @@ pcbs:
           layer: B.SilkS
           text: "samoklava v0.3\\nby soundmonster"
           justify: right mirror
-
